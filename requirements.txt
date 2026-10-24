@@ -1,0 +1,14 @@
+# Real-Time Sign Language Translator dependencies
+# Core deep learning framework
+torch==2.2.0
+torchvision==0.17.0
+
+# Computer vision utilities
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+
+# Web server framework
+flask==3.0.2
+
+# Numerical computing library
+numpy==1.26.4
